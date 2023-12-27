@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+/* start section five */
+.section_five {
+    /* background-color: red; */
+    width: 90%;
+    height: 700px;
+    margin: 100px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.section_five .Contact_Information {
+    width: 45%;
+    padding: 20px;
+    /* background-color: gray; */
+}
+.section_five .Contact_Information h2 {
+    margin-bottom: 30px;
+    font-size: 35px ;
+    font-weight: 100;
+}
+.section_five .Contact_Information p {
+line-height: 2;
+width: 95%;
+margin-bottom: 30px;
+}
+.section_five .Contact_Information ul {
+    list-style: none;
+}
+
+.section_five .Contact_Information ul li {
+    margin: 30px 0;
+}
+
+.section_five  .img {
+    width: 45%;
+    /* background-color: green; */
+}
+
+.section_five  .img img {
+    width: 100%;
+}
+
+
+/* end section five */
+/* border-bottom: 1px solid rgba(255,255,255,0.05); 
+ color: #969696;
+    font-size: 16px;
+    opacity: 1;*/ 
+/* start section six */
+
+/* .fotter_one {
+    background-color: #403d38;
+    width: 100%;
+    height: 400px;
+    padding-top: 20px;
+}
+.fotter_one .fotter_one_parent {
+    background-color: red;
+    width: 95%;
+    padding: 35px;
+    margin:  auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+.fotter_one .fotter_one_parent .About_us {
+    width: 22%; 
+    background-color: green;
+    color: white;
+    padding: 10px;
+}
+.fotter_one .fotter_one_parent .About_us h4 {
+    margin-bottom: 15px;
+    margin-left: 20px ;
+    font-size: 18px;
+}
+.fotter_one .fotter_one_parent .About_us p {
+    margin-bottom: 20px;
+ border-bottom: 1px solid rgba(255,255,255,0.05); 
+  color: #969696;
+    font-size: 16px;
+    opacity: 1;
+}
+.fotter_one .fotter_one_parent .About_us ul li {
+    margin-bottom: 20px ;
+    list-style: none;
+    border-bottom: 1px solid rgba(255,255,255,0.05); 
+     color: #969696;
+    font-size: 16px;
+    opacity: 1;
+}
+/* 
+.fotter_one .fotter_one_parent .About_us .map {
+        background: url(/Images/contact-details-map.png) rgba(71, 68, 63, 0.15) ;
+    background-blend-mode: multiply;
+    width: 94%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.fotter_two {
+    background-color: #353330;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+} */
+/* end section six */
+
+.caret {
+  border-left: solid 70px transparent; 
+  border-right: solid 70px transparent; 
+  border-bottom: solid 70px #fff; 
+  height: 0; 
+  width: 0; 
+}
+body {
+  background: #ddd;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+
+
